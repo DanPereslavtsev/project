@@ -2,10 +2,10 @@ import numpy as np
 import pandas as pd
 #import plotly.express as px
 #import seaborn as sns
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 #from scipy import stats
 import streamlit as st
-from pytrends.request import TrendReq
+#from pytrends.request import TrendReq
 import yfinance as yf
 
 
