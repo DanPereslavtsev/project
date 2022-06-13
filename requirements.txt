@@ -7,6 +7,5 @@ geopandas
 requests
 plotly.express
 yfinance
-json
 requests
 sklearn
