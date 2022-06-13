@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+plotly
+numpy
+geopandas
+requests
+plotly.express
+yfinance
+json
+requests
+sklearn
