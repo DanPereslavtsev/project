@@ -5,6 +5,7 @@ with st.echo(code_location='below'):
     import plotly.express as px
     import yfinance as yf
     import requests
+    from sklearn import linear_model
     from sklearn.linear_model import LinearRegression
     from sklearn.model_selection import train_test_split
 
