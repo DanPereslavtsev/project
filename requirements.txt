@@ -9,4 +9,3 @@ plotly.express
 yfinance
 requests
 sklearn
-LinearRegression
